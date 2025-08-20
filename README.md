@@ -1,2 +1,2 @@
-# Cyber-Security-Exploration
+# Cyber-Security-Learning
 Collection of submitted work related to cyber security
