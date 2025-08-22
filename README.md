@@ -1,2 +1,2 @@
-# Cyber-Security-Learning
-Collection of submitted work related to cyber security
+# Cyber-Security-Research
+Submitted research work related to cyber security
