@@ -1,2 +1,2 @@
 # Cyber-Security-Research
-This repository contains research papers, presentations, and some other documents that I submitted during my Master's studies in Cyber Security.
+This repository contains project documents, research papers, presentations, and other academic materials submitted throughout my Master's studies in Cyber Security.
